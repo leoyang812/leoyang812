@@ -6,9 +6,9 @@
 
 ### 🧠 About Me
 
-🔭 I’m currently working on a **Math Education App**  
+🔭 I’m currently working on an **AI fitness App** 
 🌱 I’m learning advanced full-stack techniques & backend scalability  
-📫 Reach me at: `leoyang.dev@gmail.com`  
+📫 Reach me at: `leoyang812@gmail.com`  
 📄 Check out my [Resume](https://docs.google.com/document/d/1UQiUJc0CM-ZY-i6LfiOQAfi99YbvHhVED3g9zRt0RGE/edit?usp=sharing)
 
 ---
