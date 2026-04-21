@@ -35,7 +35,7 @@ A sleek portfolio site showcasing my web projects and experience
 Find your bench press percentile based on your age, gender, and weight  
 
 
-#### 📚 [Math Education App (In Progress)](https://github.com/EduApp101)
+#### 📚 [Math Education App (In Progress)]
 A full-stack educational platform to make learning math intuitive and engaging  
 > 🚧 Currently in development. Stay tuned!
 
