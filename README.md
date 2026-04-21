@@ -34,6 +34,15 @@ A sleek portfolio site showcasing my web projects and experience
 #### 🏋️ [Bench Press Strength Calculator](https://benchpresscalc.netlify.app)
 Find your bench press percentile based on your age, gender, and weight  
 
+#### 💰 [BuyOrWait](https://buyorwait1.netlify.app)
+An interactive web tool that compares "buy now vs. invest and wait" scenarios using compound growth math  
+Users input purchase price, expected return rate, and time horizon to visualize both outcomes side by side  
+
+#### 🧗 [ClimbSmart](https://climbsmart1.netlify.app/)
+A web app that generates personalized warmup, project, and cooldown plans based on a climber's current V-grade  
+Users input their max grade and session goals, and the app outputs a structured route plan with rest guidance  
+
+
 
 #### 📚 [Math Education App (In Progress)]
 A full-stack educational platform to make learning math intuitive and engaging  
