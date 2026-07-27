@@ -1,60 +1,65 @@
 <h1 align="center">Hi 👋, I'm Leo Yang</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Python, JavaScript, React, Tailwind</h3>
-
-
----
-
-### 🧠 About Me
-
-🌱 I’m learning advanced full-stack techniques & backend scalability  
-📫 Reach me at: `leoy812@gmail.com`  
-📄 Check out my [Resume]
+<h3 align="center">
+Computer Engineering @ University of Waterloo |
+Full-Stack Developer |
+Building software that solves real-world problems
+</h3>
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 About Me
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+I'm an incoming Computer Engineering student at the University of Waterloo who enjoys building products that combine software with real-world impact.
 
----
+Currently I'm rebuilding **EchoHorizon**, a nonprofit platform that connects youth performers with seniors, while continuing to expand my full-stack development skills.
 
-### 🚀 Projects
-
-#### 🌐 [Personal Portfolio](https://portfolioleoyang.vercel.app)
-A sleek portfolio site showcasing my web projects and experience  
-
-
-#### 🏋️ [Bench Press Strength Calculator](https://benchpresscalc.netlify.app)
-Find your bench press percentile based on your age, gender, and weight  
-
-#### 💰 [BuyOrWait](https://buyorwait1.netlify.app)
-An interactive web tool that compares "buy now vs. invest and wait" scenarios using compound growth math  
-Users input purchase price, expected return rate, and time horizon to visualize both outcomes side by side  
-
-#### 🧗 [ClimbSmart](https://climbsmart1.netlify.app/)
-A web app that generates personalized warmup, project, and cooldown plans based on a climber's current V-grade  
-Users input their max grade and session goals, and the app outputs a structured route plan with rest guidance  
-
-
-
-#### 📚 [Math Education App (In Progress)]
-A full-stack educational platform to make learning math intuitive and engaging  
-> 🚧 Currently in development. Stay tuned!
+- 🌱 Learning backend architecture, scalable web applications, and cloud technologies
+- 💻 Interested in full-stack development, AI, and systems engineering
+- 📫 Reach me at **leoy812@gmail.com**
 
 ---
 
+## 🛠️ Tech Stack
 
+![TypeScript]
+![JavaScript]
+![React]
+![Next.js]
+![Tailwind CSS]
+![Supabase]
+![Node.js]
+![Python]
+![Git]
+![GitHub]
+![Vercel]
 
-### 💬 Let's Connect
+---
 
-<p align="center">
-  <a href="mailto:leoyang.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolioleoyang.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/leo-yang-076"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-</p>
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio
+Modern portfolio built with React and Tailwind showcasing my projects and experience.
+
+### 🎵 EchoHorizon *(Currently Building)*
+A full-stack platform for managing a youth nonprofit connecting performers with seniors.
+
+**Tech:** Next.js • Supabase • Google Workspace • Brevo
+
+Features include:
+- Volunteer registration
+- Event management
+- Automated email workflows
+- Admin dashboard
+- Internal management system
+
+### 🧗 ClimbSmart
+Generates personalized climbing warmups, projecting plans, and cooldowns based on climber ability.
+
+### 📚 Math Education Platform *(In Development)*
+Interactive learning platform focused on making mathematics more intuitive through visualization and practice.
+
+---
+
+## 💬 Connect
+
+Portfolio • LinkedIn • Email
