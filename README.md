@@ -40,22 +40,26 @@ Currently I'm rebuilding **EchoHorizon**, a nonprofit platform that connects you
 ## 🚀 Featured Projects
 
 ### 🌐 Personal Portfolio
-Modern portfolio built with React and Tailwind showcasing my projects and experience.
+**https://portfolioleoyang.vercel.app/**
 
-### 🎵 EchoHorizon *(Currently Building)*
-A full-stack platform for managing a youth nonprofit connecting performers with seniors.
+A modern portfolio built with React and Tailwind CSS showcasing my projects, technical skills, and journey as a developer.
+
+---
+
+### 🎵 EchoHorizon
+**https://echohorizon.ca**
+
+A full-stack platform for a youth-led nonprofit connecting performers with seniors across the GTA. Currently rebuilding the organization's infrastructure to automate volunteer registration, event management, email workflows, and internal administration.
 
 **Tech:** Next.js • Supabase • Google Workspace • Brevo
 
-Features include:
-- Volunteer registration
-- Event management
-- Automated email workflows
-- Admin dashboard
-- Internal management system
+---
 
-### 🧗 ClimbSmart
-Generates personalized climbing warmups, projecting plans, and cooldowns based on climber ability.
+### 📱 Movus *(In Development)*
+
+An AI-powered form analysis platform designed to help users review and improve forms through intelligent feedback. Currently being developed as a collaborative startup project with a focus on scalable architecture and intuitive user experience.
+
+**Tech:** React • Next.js • AI APIs *(expanding)*
 
 ### 📚 Math Education Platform *(In Development)*
 Interactive learning platform focused on making mathematics more intuitive through visualization and practice.
